@@ -1,0 +1,4 @@
+.DS_Store
+*.userstate
+project.workspace/
+userdata/
